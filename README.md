@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/absida4" target="blank"><img src="https://img.shields.io/twitter/follow/absida4?logo=twitter&style=for-the-badge" alt="absida4" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, gaspy & node.js**
+- 🌱 I’m currently learning **Angular, gatsby & node.js**
 
 - 💬 Ask me about **React, Next & Bootstrap**
 
